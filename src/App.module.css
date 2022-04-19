@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  
+}
+
+body {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#b48c54), to(#f3fc76));
+  background-image: linear-gradient(to bottom, #b5b3ae 0%, #d3923e 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: 'Open Sans', sans-serif !important;
+  display: flex;
+  display: contents;
+}
+
+.container {
+  padding: 20px;
+  margin: 10px 10px;
+}
+
+.balance {
+  margin-top: 20px;
+}
+
+.incomeExpense {
+  margin: 20px 0;
+}
+
+.transactions {
+  margin-top: 30px;
+}
+
+.addTransaction {
+  margin-top: 30px;
+}
+/*# sourceMappingURL=App.module.css.map */

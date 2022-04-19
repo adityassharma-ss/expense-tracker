@@ -1,0 +1,39 @@
+.container h3 {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.minus,
+.plus {
+  list-style: none;
+  margin: 10px 0;
+  h4 {
+    font-weight: 400;
+  }
+}
+
+.minus {
+  border-right: 2px solid rgba(204, 89, 89, 0.574) !important;
+}
+.plus {
+  border-right: 2px solid rgb(13, 173, 13) !important;
+}
+.textTransaction {
+  display: flex;
+  flex: 1;
+  justify-content: space-between !important;
+}
+
+.list {
+  padding: 0 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.underLine {
+  border-bottom: 1px solid #000;
+  opacity: 0.2;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}

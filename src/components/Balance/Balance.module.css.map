@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC;EACE,WAAW,EAAE,kCAAkC;CAAG;;AAEtD,AAAA,QAAQ,CAAC;EACL,WAAW,EAAE,cAAc;CAAG",
+    "sources": [
+        "Balance.module.sass"
+    ],
+    "names": [],
+    "file": "Balance.module.css"
+}

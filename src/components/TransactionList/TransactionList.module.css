@@ -1,0 +1,56 @@
+.container h3 {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.minus,
+.plus {
+  list-style: none;
+  margin: 10px 0;
+}
+
+.minus h4,
+.plus h4 {
+  font-weight: 400;
+}
+
+.minus {
+  border-right: 2px solid rgba(201, 82, 82, 0.849) !important;
+}
+
+.plus {
+  border-right: 2px solid #095109 !important;
+}
+
+.textTransaction {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  -webkit-box-pack: justify !important;
+      -ms-flex-pack: justify !important;
+          justify-content: space-between !important;
+}
+
+.list {
+  padding: 0 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.underLine {
+  border-bottom: 1px solid rgb(172, 146, 146);
+  opacity: 0.2;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+/*# sourceMappingURL=TransactionList.module.css.map */

@@ -1,0 +1,21 @@
+.input {
+  width: 100% !important;
+  margin: 15px 0 !important;
+}
+
+.submitBtn {
+  width: 100%;
+}
+
+h3,
+h4 {
+  font-weight: 400;
+}
+
+.underLine {
+  border-bottom: 1px solid #000;
+  opacity: 0.2;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+/*# sourceMappingURL=AddTransaction.module.css.map */
